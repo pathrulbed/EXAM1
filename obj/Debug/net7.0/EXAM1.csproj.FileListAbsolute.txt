@@ -1,0 +1,15 @@
+D:\Academic\MDT112\EXAM1\bin\Debug\net7.0\EXAM1.exe
+D:\Academic\MDT112\EXAM1\bin\Debug\net7.0\EXAM1.deps.json
+D:\Academic\MDT112\EXAM1\bin\Debug\net7.0\EXAM1.runtimeconfig.json
+D:\Academic\MDT112\EXAM1\bin\Debug\net7.0\EXAM1.dll
+D:\Academic\MDT112\EXAM1\bin\Debug\net7.0\EXAM1.pdb
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\EXAM1.csproj.AssemblyReference.cache
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\EXAM1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\EXAM1.AssemblyInfoInputs.cache
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\EXAM1.AssemblyInfo.cs
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\EXAM1.csproj.CoreCompileInputs.cache
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\EXAM1.dll
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\refint\EXAM1.dll
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\EXAM1.pdb
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\EXAM1.genruntimeconfig.cache
+D:\Academic\MDT112\EXAM1\obj\Debug\net7.0\ref\EXAM1.dll
